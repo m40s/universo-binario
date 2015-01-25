@@ -10,7 +10,7 @@ Debe saber que la información que proporciona este programa puede no ser correc
 Comenzar a utilizar
 ---------------------
 
-Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta que corresponde a su sistema operativo (`Universo Binario` en Linux, `Universo Binario.app` en Mac y `Universo Binario.exe` en Windows). Las carpetas que corresponden a otro sistema operativo que no es el suyo puede eliminarlas si lo desea, esto no afectará al funcionamiento del programa.
+Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta que corresponde a su sistema operativo (`Universo Binario` en Linux y `Universo Binario.exe` en Windows). Las carpetas que corresponden a otro sistema operativo que no es el suyo puede eliminarlas si lo desea, esto no afectará al funcionamiento del programa.
 Editar cualquier otro archivo sí puede afectar gravemente al funcionamiento del programa.
 
 Licencias y creditos
@@ -33,5 +33,7 @@ Este proyecto es de Software Libre, por lo cual no obtiene ningún apoyo económ
 
 * Difundirlo, ya sea por redes sociales, recomendandoselo a la gente que conoce, et cetera.
 * También puede realizar una donación mediante PayPal ([donar por PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=afrykaperez%40gmail%2ecom&lc=US&item_name=M40S&item_number=Miguel%20Bautista&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest)), mediante BitCoin (`1KZNBWuhwxKSFCQHti1DD5KTcGRD7DPZui`), o mediante DogeCoin (`DQa2wHSnK3Fa2phfxJug91Fhp1JozdqH2D`). Cualquier donación, por pequeña que sea es de gran ayuda.
+
+Por ahora está disponible para Windows y Linux, si usa Mac y le gustaría que hiciese una versión para ese sistema operativo por favor envíame un correo eectrónico a la dirección dada anteriormente.
 
 Puede encontrar el código de este programa, página de descarga y versiones antiguas en su página de GitHub ([Universo Bianario en GitHub](https://github.com/m40s/universo-binario)).

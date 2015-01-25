@@ -1,0 +1,13 @@
+{
+"main": "data/main.htm",
+"name": "u-binario",
+"window":{
+	"toolbar": false,
+	"icon": "data/icon.png",
+	"width": 1050,
+	"height": 675
+	},
+"version": "0.2"
+	
+}
+

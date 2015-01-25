@@ -16,7 +16,7 @@ Editar cualquier otro archivo sí puede afectar gravemente al funcionamiento del
 Licencias y creditos
 --------------------
 
-Ha sido usada la tecnología de NW.js ([www.nwjs.io](http://nwjs.io/)) para el empaquetado de la aplicación y la creación del ejecutable.
+Ha sido usada la tecnología de NW.js ([www.nwjs.io](http://nwjs.io/)) para el empaquetado de la aplicación y la creación del ejecutable. Los creditos de NW.js se encuentran en el archivo `credits.htm`.
 
 Los archivos de sonido (`*.ogg`) exceptuando la música de fondo (`/data/content/sources/music.ogg`) han sido creados por Miguel Bautista Pérez ([www.m40s.info](http://www.m40s.info "Web de Miguel Bautista")) y se encuentran bajo la licencia Creative Commons Atribución 4.0 ([CC-BY 4.0](http://creativecommons.org/licenses/by/4.0)).
 

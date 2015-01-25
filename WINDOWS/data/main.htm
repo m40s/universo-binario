@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script type="text/javascript" src="script.js"></script>
+        
+        <title>Universo Binario</title>
+        <meta name="description" content="Documentación acerca de los sistemas estelares binarios">
+        <meta name="keywords" content="Estrellas,Binarias,Cosmos,Astronomía,Física,Espacio,Documentación,Sistemas">
+        <meta name="author" content="Miguel Bautista">
+        
+    </head>
+    
+    <body ondragstart="return false">
+        <audio loop id="music" autoplay>
+            <source src="sources/music.ogg" type="audio/ogg">
+        </audio>
+        
+        <div>
+            <hr/>
+            <ul class="menu">
+            <li class="top"><img src="sources/logo.png"></li>
+            <li class="fir" onclick="one(1)"><label>1&nbsp;&nbsp; Introducci&oacute;n</label></li>
+            <li class="sec" onclick="one(11)"><label>1.1&nbsp;&nbsp; &iquest;Qu&eacute; es una estrella?</label></li>
+            <li class="sec" onclick="one(12)"><label>1.2&nbsp;&nbsp; Clasificar estrellas</label></li>
+            
+            <li class="fir" onclick="one(2)"><label>2&nbsp;&nbsp; &iquest;Qu&eacute; es una estrella binaria?</label></li>
+            <li class="sec" onclick="one(21)"><label>2.1&nbsp;&nbsp; Binarias visuales</label></li>
+            <li class="sec" onclick="one(22)"><label>2.2&nbsp;&nbsp; Binarias eclipsantes</label></li>
+            <li class="sec" onclick="one(23)"><label>2.3&nbsp;&nbsp; Binarias &oacute;pticas</label></li>
+            
+            <li class="fir" onclick="one(3)"><label>3&nbsp;&nbsp; Binarias astrom&eacute;tricas</label></li>
+            <li class="sec" onclick="one(31)"><label>3.1&nbsp;&nbsp; Efecto Doppler</label></li>
+            <li class="sec" onclick="one(32)"><label>3.2&nbsp;&nbsp; Binarias espectrosc&oacute;picas</label></li>
+            
+            <li class="fir" onclick="one(4)"><label>4&nbsp;&nbsp; Evoluci&oacute;n</label></li>
+            <li class="sec" onclick="one(41)"><label>4.1&nbsp;&nbsp; Nacimiento</label></li>
+            <li class="sec" onclick="one(42)"><label>4.2&nbsp;&nbsp; Transferencia de materia</label></li>
+            <li class="sec" onclick="one(43)"><label>4.3&nbsp;&nbsp; Supernovas</label></li>
+            <li class="ter"><label>&nbsp;</label></li>
+            </ul>
+            
+        </div>
+        
+        <div id="pause" onclick="pause()" z-index="2">
+            &#9612;&#9612;
+        </div>
+        
+    </body>
+    
+</html>

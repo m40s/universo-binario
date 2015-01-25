@@ -10,7 +10,7 @@ Debe saber que la información que proporciona este programa puede no ser correc
 Comenzar a utilizar
 ---------------------
 
-Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta que corresponde a su sistema operativo (`Universo Binario` para Mac y Linux, `Universo Binario.exe` en Windows). Las carpetas que corresponden a otro sistema operativo que no es el suyo puede eliminarlas si lo desea, esto no afectará al funcionamiento del programa.
+Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta que corresponde a su sistema operativo (`Universo Binario` en Linux, `Universo Binario.app` en Mac y `Universo Binario.exe` en Windows). Las carpetas que corresponden a otro sistema operativo que no es el suyo puede eliminarlas si lo desea, esto no afectará al funcionamiento del programa.
 Editar cualquier otro archivo sí puede afectar gravemente al funcionamiento del programa.
 
 Licencias y creditos

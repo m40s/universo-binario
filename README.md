@@ -10,7 +10,7 @@ Debe saber que la información que proporciona este programa puede no ser correc
 Comenzar a utilizar
 ---------------------
 
-Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta principal (`binario.sh` para Mac y Linux, `binario.exe` en Windows). Editar cualquier archivo puede afectar al funcionamiento del programa.
+Para comenzar a utilizar este programa tan solo abra el archivo ejecutable que se encuentra en la carpeta principal (`Universo Binario` para Mac y Linux, `Universo Binario.exe` en Windows). Editar cualquier archivo puede afectar al funcionamiento del programa.
 
 Licencias y creditos
 --------------------

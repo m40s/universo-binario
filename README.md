@@ -36,4 +36,4 @@ Este proyecto es de Software Libre, por lo cual no obtiene ningún apoyo económ
 
 Por ahora está disponible para Windows y Linux, si usa Mac y le gustaría que hiciese una versión para ese sistema operativo por favor envíe un correo electrónico a la dirección dada anteriormente.
 
-Puede encontrar el código de este programa, página de descarga y versiones antiguas en su página de GitHub ([Universo Bianario en GitHub](https://github.com/m40s/universo-binario)).
+Puede encontrar el código de este programa, página de descarga, versiones antiguasy actualizaciones recientes en su página de GitHub ([Universo Bianario en GitHub](https://github.com/m40s/universo-binario)).

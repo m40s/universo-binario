@@ -1,6 +1,6 @@
 * {
     font-family: sans-serif;
-    text-shadow: 1px 1px 1px #638399;
+    text-shadow: 1px 1px 1px #2F5977;
     }
     
 .license {
@@ -19,6 +19,15 @@
     font-weight: bold;
     
     }
+    
+.table {
+    background-color: beige;
+    
+}
 
+.prtd {
+    margin-top:40px;
+    margin-left:-10px;
+}
 
     

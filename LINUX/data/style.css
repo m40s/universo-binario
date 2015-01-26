@@ -73,9 +73,6 @@ ul.menu li.ter {
     border: solid black;
     border-width: 1px 1px 0px 0px;
     background-color: #534BA3;
-    }
-
-ul.menu li:last-child {
     border-bottom: solid black;
     border-bottom-width: 1px;
     }
@@ -86,6 +83,11 @@ ul.menu li label {
     }
     
 ul.menu li.fir:hover {
+    background-color: #FFDA63;
+    padding-left: 17px;
+    }
+    
+ul.menu li.ter:hover {
     background-color: #FFDA63;
     padding-left: 17px;
     }
